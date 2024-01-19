@@ -3,16 +3,14 @@
 ### **이태성** TaeSeong Ryan YI  / b. 1989
 
 ---
-🧟‍♂️ Curator, Project Manager, 
+#🧟‍♂️
+Curator, Project Manager, Looking for UI/UX Designer&Web Publisher
+#🏛️ 
+M.A(Art History) Myeong-Gyi Univ, Seoul, Korea
 
-Looking for UI/UX Designer&Web Publisher
+#🧑🏻‍💻Profession
 
-
-🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea
-
-🧑🏻‍💻 Profession
-
-**| 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea |**
+#**| 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea |**
 
  &nbsp;| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
   
