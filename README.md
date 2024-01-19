@@ -14,11 +14,11 @@ Looking for UI/UX Designer&Web Publisher
 
 **| 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea |**
 
-  | (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
+ &nbsp;| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
   
-  | (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
+ &nbsp;| (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
   
-  | 2021-2023       | ChungBuk Global Game Center                              | Manager |
+ &nbsp;| 2021-2023       | ChungBuk Global Game Center                              | Manager |
   
 **| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**
 
