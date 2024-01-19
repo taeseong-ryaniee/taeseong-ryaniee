@@ -4,12 +4,14 @@
 
 ---
 🧟‍♂️ Curator, Project Manager, 
+
 Looking for UI/UX Designer&Web Publisher
 
 
 🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea
 
 🧑🏻‍💻 Profession
+
 **| 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea |**
 
   | (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
