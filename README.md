@@ -20,7 +20,8 @@ Looking for UI/UX Designer&Web Publisher
   
 **| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**
 
----### BIO
+---
+### BIO
 
 - Korean Bio
   
