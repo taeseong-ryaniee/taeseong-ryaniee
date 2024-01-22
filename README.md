@@ -3,19 +3,19 @@
 ---
 ##### 이태성 TaeSeong Ryan YI  / b. 1989
 ---
-###### 🧟‍♂️ Curator, Project Manager, Looking for UI/UX Designer&Web Publisher'
+###### `🧟‍♂️ Curator, Project Manager, Looking for UI/UX Designer&Web Publisher'`
 
-###### '🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea'
+###### `'🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea'`
 ---
 ###### 🧑🏻‍💻Profession
 
 ###### **| 2019-2023          | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea |**
 
-###### // >> (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
+######  (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
   
-###### // >> (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
+######  (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
   
-###### // >> (sub)2021-2023  | ChungBuk Global Game Center                              | Manager |
+######  (sub)2021-2023  | ChungBuk Global Game Center                              | Manager |
   
 ###### **| 2016 - 2018      | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**
 
