@@ -1,9 +1,10 @@
-#####TaeSeong's Archive
+TaeSeong's Archive
 ---
-#####이태성 TaeSeong Ryan YI  / b. 1989
+이태성 TaeSeong Ryan YI  / b. 1989
 ---
-**'🧟‍♂️ Curator, Project Manager, Looking for UI/UX Designer&Web Publisher'**
-**'🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea'**
+🧟‍♂️ Curator, Project Manager, Looking for UI/UX Designer&Web Publisher'
+
+'🏛️ M.A(Art History) Myeong-Gyi Univ, Seoul, Korea'
 ---
 🧑🏻‍💻Profession
 
