@@ -6,13 +6,13 @@
 🧟‍♂️ Curator, Project Manager, UI/UX(XD, FIGMA, AXURE), Web Publish(JS, TML, CSS)
 🏛️ M.A(Art History) Myeong-Gyi Univ, Korea
 <details><summary>🧑🏻‍💻 Profession</summary>
- 2024-           | OLYM Communiction / Web Production                       | Manager | CheongJu, Korea 
+ 2024-           | OLYM Communiction / Web Production                       | Manager | CheongJu, Korea <br>
 <details><summary> 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea</summary>
-| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
-| (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
-| 2021-2023       | ChungBuk Global Game Center                              | Manager |
+<br>| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
+<br>| (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
+<br>| 2021-2023       | ChungBuk Global Game Center                              | Manager |
 </details>
-
+<br>
 **| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**
 n</details>
 
