@@ -12,7 +12,7 @@
   | (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
   | 2021-2023       | ChungBuk Global Game Center                              | Manager |
 
-**| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**</details?
+**| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**</details>
 
 ---
 ### BIO
