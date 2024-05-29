@@ -8,17 +8,17 @@
 <details><summary>🧑🏻‍💻 Profession</summary>
  2024-           | OLYM Communiction / Web Production                       | Manager | CheongJu, Korea <br>
 <details><summary> 2019-2023       | CheongJu Cultural Industry Promotion Fundation | Manager | CheongJu, Korea</summary>
-<br>| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
+| (sub) 2019      | Dong-bu Chang-ko                                         | Manager |
 <br>| (sub) 2020-2021 | Korean Craft Museum                                      | Curator, Educator |  
 <br>| 2021-2023       | ChungBuk Global Game Center                              | Manager |
 </details>
 <br>
 **| 2016 - 2018     | Total Museum of Contemporary Art                         | Coordinator | Seoul, Korea |**
-n</details>
+</details>
 
 ---
 ### BIO
-<details>>**Korean Bio**<summery></summery></summery>
+<details><summary>**Korean Bio**</summary>
   이태성은 학부 때 역사를 전공했고, 대학원에서 미술사학을 전공하고 있다. 2010년 캐나다를 시작으로 중남미, 아시아의 여러 나라를 돌아다니며
 각 지역의 역사와 얽혀 있는 문화의 다양성에 매료되어 문화예술 분야에 입문하여 지금까지 이어오고 있다. 토탈미술관(2016-2018)에서 코디네이터로 일하며 사회 속 예술의 긍정적 역할을 깨닫고 이를 전시, 문화 CSR, ODA 프로젝트 등을 통해 실현해 보고자 노력하였다. 이후 한국공예관(2019-2021)에서 전반적인 교육 사업 맡으며 일상에서 많이 사용되는 공예품에서만 느낄 수 있는 미적 요소를 대중에게 보이고자 했으며, 모든 연령의 사람들이 스스로 만들어 보는 재미를 통해 예술에 흥미를 느낄 수 있는 프로젝트를 진행하였다. 현재는 충북글로벌게임센터(2021~)에 근무하며 게임이 가지고 있는 사회적, 예술적 가치를 발견하고 공유함으로 게임에 부정적 시선을 바꾸고자 노력하고 있다.</details>
 <details><summery>**English Bio</summery>
