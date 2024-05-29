@@ -5,7 +5,7 @@
 ###### [Website](https://ryantaeseong.vercel.app/)
 ---
 ###### 🧟‍♂️ Curator, Project Manager, UI/UX(XD, FIGMA, AXURE), Web Publish(JS, TML, CSS)
-###### 🏛️ M.A(Art History) Myeong-Gyi Univ, Korea
+🏛️ M.A(Art History) Myeong-Gyi Univ, Korea
 ---
 ###### BIO
 ###### **Korean Bio**
