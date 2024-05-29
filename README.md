@@ -3,7 +3,6 @@
 ### **이태성** 
 ### TaeSeong Ryan YI  / b. 1989
 ### [Website](https://ryantaeseong.vercel.app/)
-
 ---
 🧟‍♂️ Curator, Project Manager, UI/UX(XD, FIGMA, AXURE), Web Publish(JS, TML, CSS)
 🏛️ M.A(Art History) Myeong-Gyi Univ, Korea
@@ -14,8 +13,7 @@
   
 **English Bio**
   TaeSeong Ryan YI studied history at university and art history Art History as a graduate. After travelling to various countries in Latin America and Asia, starting in Canada in 2010, he was intrigued by the diversity of cultures intertwined with the history of each region and started working in the cultural field. While working as a coordinator at the Total Museum of Art (2016-2018), he developed an understanding of the positive role of art in society through cultural CSR and ODA projects. Then, he worked at the Korea Craft Museum (2019-2021) as an overall education project manager, focusing on helping visitors feel the unique aesthetic elements of crafts and get interested in art through the fun of creating their own results. Since then, he has expanded his work to web platform planning through the Chungbuk Global Game Centre and UI/UX training course, and is focusing on designing platforms that are both user-friendly and stylish. He still believes that the artistic values can change the world, and he believes deep down in his heart that he wants to make the world a better place.
-    
-
+---
 ### Contact
 📫 taeseong.culture@gmail.com
 📱 010-4031-4493
